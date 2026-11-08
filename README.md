@@ -1,2 +1,7 @@
-# ly-objects-privacy
-Official privacy policy for LY Objects Android app
+# LY Objects: privacy policy
+
+Официальный публичный документ о конфиденциальности мобильного приложения LY Objects.
+
+Сайт: https://fapnekotraps.github.io/ly-objects-privacy/
+
+Документ: [Политика конфиденциальности](privacy-policy.md).
